@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSActionToast", "iOSActionToast\iOSActionToast.csproj", "{A102B40F-C8E3-4CC0-AD0B-079585888F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A102B40F-C8E3-4CC0-AD0B-079585888F02}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A102B40F-C8E3-4CC0-AD0B-079585888F02}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A102B40F-C8E3-4CC0-AD0B-079585888F02}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A102B40F-C8E3-4CC0-AD0B-079585888F02}.Release|iPhone.Build.0 = Release|iPhone
+		{A102B40F-C8E3-4CC0-AD0B-079585888F02}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A102B40F-C8E3-4CC0-AD0B-079585888F02}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{A102B40F-C8E3-4CC0-AD0B-079585888F02}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A102B40F-C8E3-4CC0-AD0B-079585888F02}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
