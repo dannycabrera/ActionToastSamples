@@ -1,4 +1,4 @@
-#About Action Toast
+# About Action Toast
 
 **Action Toast** is simple, quick, single line popup notification system for iOS in the style of **Toast** for Android. **Action Toast** implements the same calling structure and styles as **Toast** for Android to assist in cross platform development.
 
